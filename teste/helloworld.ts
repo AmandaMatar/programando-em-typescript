@@ -7,7 +7,7 @@ function dizerOla1(nome: string) {
     console.log(`Olá ${nome}`);
 }
 
-dizerOla('Algaworks');
+dizerOla1('Algaworks');
 
 /* novidade do ecs6
 
