@@ -3,7 +3,7 @@ Java: String: nome
 TypeScript: nome: string
 */
 
-function dizerOla(nome: string) {
+function dizerOla1(nome: string) {
     console.log(`Olá ${nome}`);
 }
 
