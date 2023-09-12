@@ -4,7 +4,7 @@ TypeScript: nome: string
 */
 
 function dizerOla(nome: string) {
-    console.log('Olá' + nome);
+    console.log(`Olá &{nome}`);
     
 }
 
