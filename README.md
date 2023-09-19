@@ -21,6 +21,14 @@
 > [!NOTE]
 > Esse material foi desenvolvido usando o node.js no linux.
 
+<br>
+<br>
+
+> [!NOTE]
+> Nesse projeto não foi usado o gitignore por isso alguns arquivos que normalmente não estão no repositório aparecem, porém como é um conteúdo para estudos foi interessante deixar todos no repositório também.
+
+<br>
+<br>
 
 **Se você tem alguma sugestão, correção, ou qualquer comentário que possa melhorar esse projeto sinta-se bem-vindo para contribir!**
 :slightly_smiling_face:
